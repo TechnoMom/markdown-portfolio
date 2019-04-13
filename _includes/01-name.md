@@ -1,3 +1,3 @@
-#Cyn Armistead
-##GitHub Portfolio
-###Proof of Concept
+# Cyn Armistead
+## GitHub Portfolio
+### Proof of Concept
